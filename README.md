@@ -12,3 +12,4 @@ Colour coded hour time blocks will change automatically according to the 24 hour
 
 
 ## Deployed URL
+https://peachysnicker.github.io/Work-Day-Scheduler/
